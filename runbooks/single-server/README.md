@@ -60,7 +60,7 @@ Throughout these instructions, replace every mention of `platform-core` with `pl
 3. Bring up the Vagrant VM, log into it
 
 ```
-vagrant up
+vagrant up --provider=virtualbox
 vagrant ssh
 ```
 
